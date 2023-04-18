@@ -1,0 +1,15 @@
+{
+  "name": "base-bot-v14",
+  "version": "1.0.0",
+  "description": "Base discord.js for making Discord Bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maboxino²#4264",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "*",
+    "discord.js": "^14.9.0"
+  }
+}
